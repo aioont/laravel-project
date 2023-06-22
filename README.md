@@ -1,12 +1,3 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
-
-<p align="center">
-<a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
-</p>
-
 ## Installation Instruction
 - run ```git clone https://github.com/herdikayan/laravel-login.git laravel-login```
 - Create a MySQL database for the project ```laravel_login```
@@ -19,3 +10,11 @@
 # laravel-projecct
 
 Address Book
+
+![IMG_20230622_222201](https://github.com/aioont/laravel-project/assets/97335084/3da1b62e-6ced-49c4-973b-13eeeee810a0)
+![IMG_20230622_222213](https://github.com/aioont/laravel-project/assets/97335084/96060595-55ea-4b3c-b3bc-6f6bdc9779a9)
+![IMG_20230622_222222](https://github.com/aioont/laravel-project/assets/97335084/9f93e31c-42f6-4335-8347-3e9345c913bd)
+![IMG_20230622_222236](https://github.com/aioont/laravel-project/assets/97335084/5e097ffa-6d5d-40b2-921b-cc7dbe6b788d)
+![IMG_20230622_222246](https://github.com/aioont/laravel-project/assets/97335084/ca42fc64-da1c-4fe4-9072-267b645ef365)
+![IMG_20230622_222300](https://github.com/aioont/laravel-project/assets/97335084/12202a0e-44f4-4bf0-b99d-90342f969300)
+![IMG_20230622_222327](https://github.com/aioont/laravel-project/assets/97335084/ecc3fe15-cfba-470d-a8c7-3791855f4cf8)
